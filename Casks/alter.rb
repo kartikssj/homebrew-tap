@@ -1,6 +1,6 @@
 cask "alter" do
-  version "0.2.1"
-  sha256 "0414d12f19c86ea96637b4114906afb78bfb1303a4131153c7d12e6b67ae28ff"
+  version "0.3.2"
+  sha256 "b951aaf8213bb37c617670d9e1c827f4a5f5836e04209c95d32b0a0fd4946285"
 
   url "https://github.com/kartikssj/alter/releases/download/v#{version}/Alter-#{version}.zip"
   name "Alter"
